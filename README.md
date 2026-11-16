@@ -1,8 +1,41 @@
-# Ramzi Baigov — Frontend Developer Portfolio
+# Ramzi Baigov — Frontend Developer
 
-A responsive, single-page portfolio built with HTML5 and CSS3.
+A modern, responsive personal portfolio showcasing frontend development projects built with HTML5 and CSS3.
 
-## Project structure
+## Live Portfolio
+
+[View Portfolio Website](https://zi2001djru.github.io/ramzi-portfolio/)
+
+## About Me
+
+I am a Software Engineering graduate focused on frontend development and building clean, responsive, and user-friendly websites.
+
+I enjoy transforming design concepts into functional web experiences with attention to detail, layout structure, and visual consistency.
+
+## Featured Projects
+
+### 1. Maison Coffee
+A modern coffee shop website featuring elegant typography, warm visual styling, and responsive layouts.
+
+### 2. Fashion Store
+A minimalist fashion e-commerce website concept focused on product presentation and clean design.
+
+### 3. Olivia Italian Kitchen
+An elegant restaurant website featuring modern layouts, food presentation, and responsive design.
+
+## Technologies & Tools
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- CSS Grid
+- Flexbox
+- SVG
+- Git & GitHub
+- Visual Studio Code
+- Figma
+
+## Project Structure
 
 ```text
 ramzi-portfolio/
@@ -15,34 +48,20 @@ ramzi-portfolio/
     └── style.css
 ```
 
-## Run locally
+## Run Locally
 
-Open `index.html` in a browser. The Google Fonts connection requires an internet connection; the page remains readable with system-font fallbacks.
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` in your browser or use Live Server.
 
-## Before publishing
+## Contact
 
-1. In `index.html`, replace `YOUR_EMAIL@example.com` with the public email address you want clients to use.
-2. Add your real GitHub, LinkedIn and Upwork URLs when ready.
-3. Add the live GitHub Pages and repository links to each project card after confirming the URLs.
-4. Check the spelling and project descriptions before sharing the site with clients.
+- GitHub: [Ramzi Baigov](https://github.com/zi2001djru)
+- LinkedIn: Add your LinkedIn profile URL here.
+- Email: Add your professional email address here.
 
-## Publish with GitHub Pages
+## Author
 
-1. Create a GitHub repository, for example `ramzi-portfolio`.
-2. Upload the contents of this folder (not the ZIP file itself) to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose `main` and `/ (root)`, then save.
-6. Wait for GitHub Pages to publish the site and open the generated URL.
+**Ramzi Baigov**
 
-## Technologies
-
-- HTML5
-- CSS3
-- Responsive layout with CSS Grid and Flexbox
-- SVG favicon / brand mark
-- Google Fonts (Manrope and DM Mono)
-
-## Notes
-
-The project descriptions are based on the three portfolio layouts: Maison Coffee, Fashion Store and Olivia Italian Kitchen. Add repository/demo URLs once the corresponding GitHub Pages links are confirmed.
+Frontend Developer | Software Engineering Graduate
