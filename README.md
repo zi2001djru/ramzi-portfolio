@@ -57,8 +57,8 @@ ramzi-portfolio/
 ## Contact
 
 - GitHub: [Ramzi Baigov](https://github.com/zi2001djru)
-- LinkedIn: Add your LinkedIn profile URL here.
-- Email: Add your professional email address here.
+- LinkedIn: https://www.linkedin.com/in/ramzi-baigov-8ab955309/
+- Email: zi2001dj.ru@gmail.com
 
 ## Author
 
