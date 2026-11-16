@@ -58,7 +58,7 @@ ramzi-portfolio/
 
 - GitHub: [Ramzi Baigov](https://github.com/zi2001djru)
 - LinkedIn: https://www.linkedin.com/in/ramzi-baigov-8ab955309/
-- Email: **zi2001dj.ru@gmail.com**
+ Email: zi2001dj.ru@gmail.com
 
 ## Author
 
